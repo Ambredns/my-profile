@@ -1,0 +1,144 @@
+/* Colors and fonts */
+
+ 
+
+body {
+
+              background:#34495E;
+
+              color: #A569BD;
+
+              font-family: "Dangrek", cursive;
+
+              font-size: 17px;
+
+              font-weight: bolder;
+
+}
+
+ 
+
+h1 {
+
+              color: #34495E;
+
+              font-family: "Dancing Script", cursive;
+
+              font-size: 32px;
+
+}
+
+ 
+
+h2 {
+
+              color: #CB4335;
+
+              font-family: "Alfa Slab One", cursive;
+
+              font-size: 24px;
+
+              font-weight: lighter;
+
+}
+
+ 
+
+p {
+
+              font-weight: lighter;
+
+}
+
+ 
+
+a {
+
+              text-decoration: none;
+
+              color: white;
+
+              font-weight: lighter;
+
+              font-family: "Anton", sans-serif;
+
+              font-size: 10px;
+
+}
+
+ 
+
+a:hover {
+
+              color: #34495E;
+            
+
+}
+
+ 
+
+.img-circle {
+
+              border-radius: 50%;
+
+}
+
+ 
+
+.style {
+
+              background: white;
+
+              width: 500px;
+
+              margin: 20px auto;
+
+              padding: 40px;
+
+              box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+
+              border-radius: 5px;
+
+              text-align: center;
+
+}
+
+ 
+
+.link-style {
+
+              background-color: #34495E;
+
+              color: white;
+
+              width: 300px auto;
+
+              padding: 7px 7px;
+
+              border-radius: 50px;
+
+}
+
+ 
+
+@media (max-width: 500px) {
+
+              .style {
+
+                            width: 200px;
+
+              }
+
+}
+
+ 
+
+@media (max-width: 760px) {
+
+              .style {
+
+                            width: 300px;
+
+              }
+
+}
